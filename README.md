@@ -33,3 +33,4 @@ O objetivo do projeto é aplicar os algoritmos aprendidos em sala de aula para r
 - Sendo X o número do exercício.
 
 ## Youtube
+- [Video Youtube](https://www.youtube.com/watch?v=B9vup_TS28A)
