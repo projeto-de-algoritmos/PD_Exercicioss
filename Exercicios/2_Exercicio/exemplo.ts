@@ -1,4 +1,4 @@
 import longestPalindrome from "./substringPalindromica";
 
-console.log(longestPalindrome("babad")); // Saída: "bab" or "aba"
-console.log(longestPalindrome("cbbd"));  // Saída: "bb"
+console.log("Maior subsequência palindrômica:", longestPalindrome("babad")); // Saída: "bab" or "aba"
+console.log("Maior subsequência palindrômica:", longestPalindrome("cbbd"));  // Saída: "bb"
